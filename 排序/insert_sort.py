@@ -14,3 +14,5 @@ def insert_sort(raw_list):
 data_test = [10,23,1,53,654,54,16,646,65,3155,546,31]
 sorted_list = insert_sort(data_test)
 print(sorted_list)
+
+# 稳定，o(n)
